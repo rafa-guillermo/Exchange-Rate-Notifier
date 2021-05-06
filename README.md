@@ -1,1 +1,2 @@
-# Exchange-Rate-Notifier
+# Exchange Rate Notifier
+
